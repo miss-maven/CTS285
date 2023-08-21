@@ -1,2 +1,2 @@
-# CTS285
-CTS285_Fall23_HJM
+# CTS 285
+# Jane Martin
